@@ -9,3 +9,5 @@ Multiple boards can be chained together to form larger arrays ( matrix I built u
 
 The sense_mux files are for a second PCB used to multiplex 64 analog input signals down to 4 outputs pins for input into
 the microcontroller.  Again, additional details on how it is used at http://shnatko.tumblr.com
+
+Also included in this package is the MBI.lbr Eagle library in which I created a few components which I needed for the board layout.
